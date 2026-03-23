@@ -30,7 +30,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lemin9802&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lemin9802's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemin9802&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
