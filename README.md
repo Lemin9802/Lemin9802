@@ -27,14 +27,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemin9802&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
 ### 📫 Let's Connect!
 
 <div align="center">
